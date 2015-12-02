@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 98baeea8a19244645ac0e5aea66db916
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: DirectConnectNode_16_DC_Shell
+    100002: DirectConnectNode_22_DC_Shell
+    100004: DirectConnectNode_29_DC_Shell
+    100006: DirectConnectNode_2_DC_Shell
+    100008: DirectConnectNode_37_DC_Shell
+    100010: DirectConnectNode_45_DC_Shell
+    100012: DirectConnectNode_52_DC_Shell
+    100014: DirectConnectNode_58_DC_Shell
+    100016: DirectConnectNode_65_DC_Shell
+    100018: DirectConnectNode_73_DC_Shell
+    100020: DirectConnectNode_9_DC_Shell
+    100022: //RootNode
+    400000: DirectConnectNode_16_DC_Shell
+    400002: DirectConnectNode_22_DC_Shell
+    400004: DirectConnectNode_29_DC_Shell
+    400006: DirectConnectNode_2_DC_Shell
+    400008: DirectConnectNode_37_DC_Shell
+    400010: DirectConnectNode_45_DC_Shell
+    400012: DirectConnectNode_52_DC_Shell
+    400014: DirectConnectNode_58_DC_Shell
+    400016: DirectConnectNode_65_DC_Shell
+    400018: DirectConnectNode_73_DC_Shell
+    400020: DirectConnectNode_9_DC_Shell
+    400022: //RootNode
+    2300000: DirectConnectNode_16_DC_Shell
+    2300002: DirectConnectNode_22_DC_Shell
+    2300004: DirectConnectNode_29_DC_Shell
+    2300006: DirectConnectNode_2_DC_Shell
+    2300008: DirectConnectNode_37_DC_Shell
+    2300010: DirectConnectNode_45_DC_Shell
+    2300012: DirectConnectNode_52_DC_Shell
+    2300014: DirectConnectNode_58_DC_Shell
+    2300016: DirectConnectNode_65_DC_Shell
+    2300018: DirectConnectNode_73_DC_Shell
+    2300020: DirectConnectNode_9_DC_Shell
+    3300000: DirectConnectNode_16_DC_Shell
+    3300002: DirectConnectNode_22_DC_Shell
+    3300004: DirectConnectNode_29_DC_Shell
+    3300006: DirectConnectNode_2_DC_Shell
+    3300008: DirectConnectNode_37_DC_Shell
+    3300010: DirectConnectNode_45_DC_Shell
+    3300012: DirectConnectNode_52_DC_Shell
+    3300014: DirectConnectNode_58_DC_Shell
+    3300016: DirectConnectNode_65_DC_Shell
+    3300018: DirectConnectNode_73_DC_Shell
+    3300020: DirectConnectNode_9_DC_Shell
+    4300000: DirectConnectNode_16_DC_Shell
+    4300002: DirectConnectNode_22_DC_Shell
+    4300004: DirectConnectNode_29_DC_Shell
+    4300006: DirectConnectNode_2_DC_Shell
+    4300008: DirectConnectNode_37_DC_Shell
+    4300010: DirectConnectNode_45_DC_Shell
+    4300012: DirectConnectNode_52_DC_Shell
+    4300014: DirectConnectNode_58_DC_Shell
+    4300016: DirectConnectNode_65_DC_Shell
+    4300018: DirectConnectNode_73_DC_Shell
+    4300020: DirectConnectNode_9_DC_Shell
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
