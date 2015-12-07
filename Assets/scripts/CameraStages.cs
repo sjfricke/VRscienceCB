@@ -54,9 +54,10 @@ public class CameraStages : MonoBehaviour {
 		}
 
 		if (Input.GetMouseButtonDown (0) && state == 5 && !audio4.isPlaying) { 
-			Vector3 move = new Vector3 ((float)-52.1, (float)3.3, (float)28.5);
-			
+		
+			Vector3 move = new Vector3 ((float)-52.1, (float)3.3, (float)28.5);			
 			transform.position = move;
+			anim.enabled = false;
 			state++;
 			audio5.Play(88200);
 		}
