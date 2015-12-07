@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 27bff0156eee9e84e9c4d423b08d2851
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: DirectConnectNode_14_DC_Shell
+    100002: DirectConnectNode_20_DC_Shell
+    100004: DirectConnectNode_26_DC_Shell
+    100006: DirectConnectNode_2_DC_Shell
+    100008: DirectConnectNode_32_DC_Shell
+    100010: DirectConnectNode_38_DC_Shell
+    100012: DirectConnectNode_44_DC_Shell
+    100014: DirectConnectNode_50_DC_Shell
+    100016: DirectConnectNode_56_DC_Shell
+    100018: DirectConnectNode_62_DC_Shell
+    100020: DirectConnectNode_68_DC_Shell
+    100022: DirectConnectNode_74_DC_Shell
+    100024: DirectConnectNode_80_DC_Shell
+    100026: DirectConnectNode_8_DC_Shell
+    100028: //RootNode
+    400000: DirectConnectNode_14_DC_Shell
+    400002: DirectConnectNode_20_DC_Shell
+    400004: DirectConnectNode_26_DC_Shell
+    400006: DirectConnectNode_2_DC_Shell
+    400008: DirectConnectNode_32_DC_Shell
+    400010: DirectConnectNode_38_DC_Shell
+    400012: DirectConnectNode_44_DC_Shell
+    400014: DirectConnectNode_50_DC_Shell
+    400016: DirectConnectNode_56_DC_Shell
+    400018: DirectConnectNode_62_DC_Shell
+    400020: DirectConnectNode_68_DC_Shell
+    400022: DirectConnectNode_74_DC_Shell
+    400024: DirectConnectNode_80_DC_Shell
+    400026: DirectConnectNode_8_DC_Shell
+    400028: //RootNode
+    2300000: DirectConnectNode_14_DC_Shell
+    2300002: DirectConnectNode_20_DC_Shell
+    2300004: DirectConnectNode_26_DC_Shell
+    2300006: DirectConnectNode_2_DC_Shell
+    2300008: DirectConnectNode_32_DC_Shell
+    2300010: DirectConnectNode_38_DC_Shell
+    2300012: DirectConnectNode_44_DC_Shell
+    2300014: DirectConnectNode_50_DC_Shell
+    2300016: DirectConnectNode_56_DC_Shell
+    2300018: DirectConnectNode_62_DC_Shell
+    2300020: DirectConnectNode_68_DC_Shell
+    2300022: DirectConnectNode_74_DC_Shell
+    2300024: DirectConnectNode_80_DC_Shell
+    2300026: DirectConnectNode_8_DC_Shell
+    3300000: DirectConnectNode_14_DC_Shell
+    3300002: DirectConnectNode_20_DC_Shell
+    3300004: DirectConnectNode_26_DC_Shell
+    3300006: DirectConnectNode_2_DC_Shell
+    3300008: DirectConnectNode_32_DC_Shell
+    3300010: DirectConnectNode_38_DC_Shell
+    3300012: DirectConnectNode_44_DC_Shell
+    3300014: DirectConnectNode_50_DC_Shell
+    3300016: DirectConnectNode_56_DC_Shell
+    3300018: DirectConnectNode_62_DC_Shell
+    3300020: DirectConnectNode_68_DC_Shell
+    3300022: DirectConnectNode_74_DC_Shell
+    3300024: DirectConnectNode_80_DC_Shell
+    3300026: DirectConnectNode_8_DC_Shell
+    4300000: DirectConnectNode_2_DC_Shell
+    4300002: DirectConnectNode_8_DC_Shell
+    4300004: DirectConnectNode_14_DC_Shell
+    4300006: DirectConnectNode_20_DC_Shell
+    4300008: DirectConnectNode_26_DC_Shell
+    4300010: DirectConnectNode_32_DC_Shell
+    4300012: DirectConnectNode_38_DC_Shell
+    4300014: DirectConnectNode_44_DC_Shell
+    4300016: DirectConnectNode_50_DC_Shell
+    4300018: DirectConnectNode_56_DC_Shell
+    4300020: DirectConnectNode_62_DC_Shell
+    4300022: DirectConnectNode_68_DC_Shell
+    4300024: DirectConnectNode_74_DC_Shell
+    4300026: DirectConnectNode_80_DC_Shell
+    7400000: LithiumMove3_1
+    7400002: LithiumMove3_2
+    7400004: LithiumMove3_3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: LithiumMove3_1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 257
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: .180000007
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirectConnectNode_2_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_8_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_14_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_20_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_26_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_32_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_38_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_44_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_50_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_56_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_62_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_68_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_74_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_80_DC_Shell
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LithiumMove3_2
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 257
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: .360000014
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirectConnectNode_2_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_8_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_14_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_20_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_26_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_32_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_38_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_44_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_50_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_56_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_62_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_68_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_74_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_80_DC_Shell
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: LithiumMove3_3
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 257
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: .810000002
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirectConnectNode_2_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_8_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_14_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_20_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_26_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_32_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_38_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_44_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_50_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_56_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_62_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_68_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_74_DC_Shell
+        weight: 1
+      - path: DirectConnectNode_80_DC_Shell
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

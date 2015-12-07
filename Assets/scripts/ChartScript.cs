@@ -3,17 +3,18 @@ using System.Collections;
 
 public class ChartScript : MonoBehaviour {
 
-	public GameObject box001;
-	public GameObject box002;
-	public GameObject box003;
-	public GameObject box004;
-	public GameObject box005;
-	public GameObject box010;
-	public GameObject box011;
-	public GameObject box020;
-	public GameObject box021;
-	public GameObject box022;
-	public GameObject box023;
+	public GameObject box601;
+	public GameObject box602;
+	public GameObject box603;
+
+	public GameObject box701;
+	public GameObject box702;
+	public GameObject box703;
+	public GameObject box704;
+	public GameObject box705;
+
+	public GameObject box801;
+	public GameObject box802;
 
 
 	private float timeBeen = 0;
@@ -26,55 +27,53 @@ public class ChartScript : MonoBehaviour {
 	void Update () {
 		timeBeen += Time.deltaTime;
 
-		if (timeBeen > 6.850) {
+		if (timeBeen >= 8.567) {
 			timeBeen = 0;
 			resetGO();
 		}
-		else if (timeBeen > 6.45) {
-			box005.renderer.enabled = true;
+		else if (timeBeen > (.771 * 10)) {
+			box705.renderer.enabled = true;
 		} 
-		else if (timeBeen > 6.08) {
-			box004.renderer.enabled = true;
-			box011.renderer.enabled = true;
+		else if (timeBeen > (.771 * 9)) {
+			box603.renderer.enabled = true;
 		} 
-		else if (timeBeen > 4.75) {
-			box010.renderer.enabled = true;
+		else if (timeBeen > (.771 * 8)) {
+			box802.renderer.enabled = true;
 		} 
-		else if (timeBeen > 4.06) {
-			box003.renderer.enabled = true;
+		else if (timeBeen > (.771 * 7)) {
+			box602.renderer.enabled = true;
 		} 
-		else if (timeBeen > 3.59) {
-			box023.renderer.enabled = true;
+		else if (timeBeen > (.771 * 6)) {
+			box704.renderer.enabled = true;
 		} 
-		else if (timeBeen > 3.316) {
-			box002.renderer.enabled = true;
+		else if (timeBeen > (.771 * 5)) {
+			box703.renderer.enabled = true;
 		} 
-		else if (timeBeen > 2.764) {
-			box022.renderer.enabled = true;
+		else if (timeBeen > (.771 * 4)) {
+			box801.renderer.enabled = true;
 		} 
-		else if (timeBeen > 2.247) {
-			box021.renderer.enabled = true;
+		else if (timeBeen > (.771 * 3)) {
+			box702.renderer.enabled = true;
 		}
-		else if (timeBeen > 1.130) {
-			box001.renderer.enabled = true;
+		else if (timeBeen > (.771 * 2)) {
+			box601.renderer.enabled = true;
 		} 
-		else if (timeBeen > .6) {
-			box020.renderer.enabled = true;
+		else if (timeBeen > (.771 * 1)) {
+			box701.renderer.enabled = true;
 		} 
 	}
 
 	private void resetGO() {
-		box001.renderer.enabled = false;
-		box002.renderer.enabled = false;
-		box003.renderer.enabled = false;
-		box004.renderer.enabled = false;
-		box005.renderer.enabled = false;
-		box010.renderer.enabled = false;
-		box011.renderer.enabled = false;
-		box020.renderer.enabled = false;
-		box021.renderer.enabled = false;
-		box022.renderer.enabled = false;
-		box023.renderer.enabled = false;
+		box601.renderer.enabled = false;
+		box602.renderer.enabled = false;
+		box603.renderer.enabled = false;
+		box701.renderer.enabled = false;
+		box702.renderer.enabled = false;
+		box703.renderer.enabled = false;
+		box704.renderer.enabled = false;
+		box705.renderer.enabled = false;
+		box801.renderer.enabled = false;
+		box802.renderer.enabled = false;
 
 	}
 }
