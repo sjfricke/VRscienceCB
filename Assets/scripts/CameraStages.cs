@@ -8,6 +8,7 @@ public class CameraStages : MonoBehaviour {
 	public AudioSource audio2;
 	public AudioSource audio3;
 	public AudioSource audio4;
+	public AudioSource audio5;
 
 	Animator anim;
 	private int state = 0;
@@ -53,9 +54,15 @@ public class CameraStages : MonoBehaviour {
 		}
 
 		if (Input.GetMouseButtonDown (0) && state == 5 && !audio4.isPlaying) { 
-			anim.Play("Stage4");
-			state = 0;
-			startTime = 0;
+			Vector3 move = new Vector3 ((float)-52.1, (float)3.3, (float)28.5);
+			
+			transform.position = move;
+			state++;
+			audio5.Play(88200);
+		}
+
+		if (Input.GetMouseButtonDown (0) && state == 6 && !audio5.isPlaying) { 
+			Application.LoadLevel("Menu");
 
 		}
 	}
