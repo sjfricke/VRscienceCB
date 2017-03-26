@@ -1,0 +1,649 @@
+fileFormatVersion: 2
+guid: 17364e2ef35568f4bbca2c76b4310a7c
+timeCreated: 1460212909
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: carbon12_lowPoly_Carbon12_resized
+    100002: carbon12_lowPoly_Carbon12_resized1
+    100004: carbon12_lowPoly_Carbon12_resized2
+    100006: carbon12_lowPoly_Carbon12_resized3
+    100008: carbon12_lowPoly_Carbon12_resized4
+    100010: carbon12_lowPoly_Carbon12_resized5
+    100012: carbon12_lowPoly_electron1
+    100014: carbon12_lowPoly_electron1 1
+    100016: carbon12_lowPoly_electron1 2
+    100018: carbon12_lowPoly_electron1 3
+    100020: carbon12_lowPoly_electron1 4
+    100022: carbon12_lowPoly_electron1 5
+    100024: carbon12_lowPoly_electron2
+    100026: carbon12_lowPoly_electron2 1
+    100028: carbon12_lowPoly_electron2 2
+    100030: carbon12_lowPoly_electron2 3
+    100032: carbon12_lowPoly_electron2 4
+    100034: carbon12_lowPoly_electron2 5
+    100036: carbon12_lowPoly_electron3
+    100038: carbon12_lowPoly_electron3 1
+    100040: carbon12_lowPoly_electron3 2
+    100042: carbon12_lowPoly_electron3 3
+    100044: carbon12_lowPoly_electron3 4
+    100046: carbon12_lowPoly_electron3 5
+    100048: carbon12_lowPoly_electron4
+    100050: carbon12_lowPoly_electron4 1
+    100052: carbon12_lowPoly_electron4 2
+    100054: carbon12_lowPoly_electron4 3
+    100056: carbon12_lowPoly_electron4 4
+    100058: carbon12_lowPoly_electron4 5
+    100060: carbon12_lowPoly_electron5
+    100062: carbon12_lowPoly_electron5 1
+    100064: carbon12_lowPoly_electron5 2
+    100066: carbon12_lowPoly_electron5 3
+    100068: carbon12_lowPoly_electron5 4
+    100070: carbon12_lowPoly_electron5 5
+    100072: carbon12_lowPoly_electron6
+    100074: carbon12_lowPoly_electron6 1
+    100076: carbon12_lowPoly_electron6 2
+    100078: carbon12_lowPoly_electron6 3
+    100080: carbon12_lowPoly_electron6 4
+    100082: carbon12_lowPoly_electron6 5
+    100084: carbon12_lowPoly_ring1
+    100086: carbon12_lowPoly_ring1 1
+    100088: carbon12_lowPoly_ring1 10
+    100090: carbon12_lowPoly_ring1 11
+    100092: carbon12_lowPoly_ring1 2
+    100094: carbon12_lowPoly_ring1 3
+    100096: carbon12_lowPoly_ring1 4
+    100098: carbon12_lowPoly_ring1 5
+    100100: carbon12_lowPoly_ring1 6
+    100102: carbon12_lowPoly_ring1 7
+    100104: carbon12_lowPoly_ring1 8
+    100106: carbon12_lowPoly_ring1 9
+    100108: carbon12_lowPoly_ring2
+    100110: carbon12_lowPoly_ring2 1
+    100112: carbon12_lowPoly_ring2 10
+    100114: carbon12_lowPoly_ring2 11
+    100116: carbon12_lowPoly_ring2 2
+    100118: carbon12_lowPoly_ring2 3
+    100120: carbon12_lowPoly_ring2 4
+    100122: carbon12_lowPoly_ring2 5
+    100124: carbon12_lowPoly_ring2 6
+    100126: carbon12_lowPoly_ring2 7
+    100128: carbon12_lowPoly_ring2 8
+    100130: carbon12_lowPoly_ring2 9
+    100132: carbon12_lowPoly_ring3
+    100134: carbon12_lowPoly_ring3 1
+    100136: carbon12_lowPoly_ring3 10
+    100138: carbon12_lowPoly_ring3 11
+    100140: carbon12_lowPoly_ring3 2
+    100142: carbon12_lowPoly_ring3 3
+    100144: carbon12_lowPoly_ring3 4
+    100146: carbon12_lowPoly_ring3 5
+    100148: carbon12_lowPoly_ring3 6
+    100150: carbon12_lowPoly_ring3 7
+    100152: carbon12_lowPoly_ring3 8
+    100154: carbon12_lowPoly_ring3 9
+    100156: carbon12_lowPoly_SmallNucleus
+    100158: carbon12_lowPoly_SmallNucleus 1
+    100160: carbon12_lowPoly_SmallNucleus 2
+    100162: carbon12_lowPoly_SmallNucleus 3
+    100164: carbon12_lowPoly_SmallNucleus 4
+    100166: carbon12_lowPoly_SmallNucleus 5
+    100168: chart
+    100170: chartGroup
+    100172: ChartMark12
+    100174: ChartMark14
+    100176: chartMarker1
+    100178: chartMarker2
+    100180: chartMarker3
+    100182: chartMarker4
+    100184: chartMarker5
+    100186: ChartX
+    100188: ChartY
+    100190: coil
+    100192: curve3
+    100194: curve4
+    100196: ion_accelerator
+    100198: ion_accelerator_pCube3
+    100200: ion_accelerator_pCube4
+    100202: ion_accelerator_pCube5
+    100204: ion_accelerator_pCube6
+    100206: locationMarker1
+    100208: locationMarker2
+    100210: locationMarker3
+    100212: locationMarker4
+    100214: locationMarker5
+    100216: MagLine12
+    100218: MagLine13
+    100220: magnets
+    100222: //RootNode
+    100224: NegSign1
+    100226: NegSign2
+    100228: NegSign3
+    100230: NegSign4
+    100232: padChart
+    100234: padCoil
+    100236: pCubeLM
+    100238: pCubeLM 1
+    100240: pCubeLM 2
+    100242: pCubeLM 3
+    100244: pCubeLM 4
+    100246: pCylinderLM
+    100248: pCylinderLM 1
+    100250: pCylinderLM 2
+    100252: pCylinderLM 3
+    100254: pCylinderLM 4
+    100256: PosSign01
+    100258: PosSign02
+    100260: PosSign03
+    100262: pTorus3
+    100264: Trim_Char_x_1_1
+    100266: Trim_Char_x_1_2
+    100268: Trim_Char_x_2_1
+    100270: Trim_Char_x_2_2
+    100272: Trim_Text_xx_1_12
+    100274: Trim_Text_xx_1_14
+    400000: carbon12_lowPoly_Carbon12_resized
+    400002: carbon12_lowPoly_Carbon12_resized1
+    400004: carbon12_lowPoly_Carbon12_resized2
+    400006: carbon12_lowPoly_Carbon12_resized3
+    400008: carbon12_lowPoly_Carbon12_resized4
+    400010: carbon12_lowPoly_Carbon12_resized5
+    400012: carbon12_lowPoly_electron1
+    400014: carbon12_lowPoly_electron1 1
+    400016: carbon12_lowPoly_electron1 2
+    400018: carbon12_lowPoly_electron1 3
+    400020: carbon12_lowPoly_electron1 4
+    400022: carbon12_lowPoly_electron1 5
+    400024: carbon12_lowPoly_electron2
+    400026: carbon12_lowPoly_electron2 1
+    400028: carbon12_lowPoly_electron2 2
+    400030: carbon12_lowPoly_electron2 3
+    400032: carbon12_lowPoly_electron2 4
+    400034: carbon12_lowPoly_electron2 5
+    400036: carbon12_lowPoly_electron3
+    400038: carbon12_lowPoly_electron3 1
+    400040: carbon12_lowPoly_electron3 2
+    400042: carbon12_lowPoly_electron3 3
+    400044: carbon12_lowPoly_electron3 4
+    400046: carbon12_lowPoly_electron3 5
+    400048: carbon12_lowPoly_electron4
+    400050: carbon12_lowPoly_electron4 1
+    400052: carbon12_lowPoly_electron4 2
+    400054: carbon12_lowPoly_electron4 3
+    400056: carbon12_lowPoly_electron4 4
+    400058: carbon12_lowPoly_electron4 5
+    400060: carbon12_lowPoly_electron5
+    400062: carbon12_lowPoly_electron5 1
+    400064: carbon12_lowPoly_electron5 2
+    400066: carbon12_lowPoly_electron5 3
+    400068: carbon12_lowPoly_electron5 4
+    400070: carbon12_lowPoly_electron5 5
+    400072: carbon12_lowPoly_electron6
+    400074: carbon12_lowPoly_electron6 1
+    400076: carbon12_lowPoly_electron6 2
+    400078: carbon12_lowPoly_electron6 3
+    400080: carbon12_lowPoly_electron6 4
+    400082: carbon12_lowPoly_electron6 5
+    400084: carbon12_lowPoly_ring1
+    400086: carbon12_lowPoly_ring1 1
+    400088: carbon12_lowPoly_ring1 10
+    400090: carbon12_lowPoly_ring1 11
+    400092: carbon12_lowPoly_ring1 2
+    400094: carbon12_lowPoly_ring1 3
+    400096: carbon12_lowPoly_ring1 4
+    400098: carbon12_lowPoly_ring1 5
+    400100: carbon12_lowPoly_ring1 6
+    400102: carbon12_lowPoly_ring1 7
+    400104: carbon12_lowPoly_ring1 8
+    400106: carbon12_lowPoly_ring1 9
+    400108: carbon12_lowPoly_ring2
+    400110: carbon12_lowPoly_ring2 1
+    400112: carbon12_lowPoly_ring2 10
+    400114: carbon12_lowPoly_ring2 11
+    400116: carbon12_lowPoly_ring2 2
+    400118: carbon12_lowPoly_ring2 3
+    400120: carbon12_lowPoly_ring2 4
+    400122: carbon12_lowPoly_ring2 5
+    400124: carbon12_lowPoly_ring2 6
+    400126: carbon12_lowPoly_ring2 7
+    400128: carbon12_lowPoly_ring2 8
+    400130: carbon12_lowPoly_ring2 9
+    400132: carbon12_lowPoly_ring3
+    400134: carbon12_lowPoly_ring3 1
+    400136: carbon12_lowPoly_ring3 10
+    400138: carbon12_lowPoly_ring3 11
+    400140: carbon12_lowPoly_ring3 2
+    400142: carbon12_lowPoly_ring3 3
+    400144: carbon12_lowPoly_ring3 4
+    400146: carbon12_lowPoly_ring3 5
+    400148: carbon12_lowPoly_ring3 6
+    400150: carbon12_lowPoly_ring3 7
+    400152: carbon12_lowPoly_ring3 8
+    400154: carbon12_lowPoly_ring3 9
+    400156: carbon12_lowPoly_SmallNucleus
+    400158: carbon12_lowPoly_SmallNucleus 1
+    400160: carbon12_lowPoly_SmallNucleus 2
+    400162: carbon12_lowPoly_SmallNucleus 3
+    400164: carbon12_lowPoly_SmallNucleus 4
+    400166: carbon12_lowPoly_SmallNucleus 5
+    400168: chart
+    400170: chartGroup
+    400172: ChartMark12
+    400174: ChartMark14
+    400176: chartMarker1
+    400178: chartMarker2
+    400180: chartMarker3
+    400182: chartMarker4
+    400184: chartMarker5
+    400186: ChartX
+    400188: ChartY
+    400190: coil
+    400192: curve3
+    400194: curve4
+    400196: ion_accelerator
+    400198: ion_accelerator_pCube3
+    400200: ion_accelerator_pCube4
+    400202: ion_accelerator_pCube5
+    400204: ion_accelerator_pCube6
+    400206: locationMarker1
+    400208: locationMarker2
+    400210: locationMarker3
+    400212: locationMarker4
+    400214: locationMarker5
+    400216: MagLine12
+    400218: MagLine13
+    400220: magnets
+    400222: //RootNode
+    400224: NegSign1
+    400226: NegSign2
+    400228: NegSign3
+    400230: NegSign4
+    400232: padChart
+    400234: padCoil
+    400236: pCubeLM
+    400238: pCubeLM 1
+    400240: pCubeLM 2
+    400242: pCubeLM 3
+    400244: pCubeLM 4
+    400246: pCylinderLM
+    400248: pCylinderLM 1
+    400250: pCylinderLM 2
+    400252: pCylinderLM 3
+    400254: pCylinderLM 4
+    400256: PosSign01
+    400258: PosSign02
+    400260: PosSign03
+    400262: pTorus3
+    400264: Trim_Char_x_1_1
+    400266: Trim_Char_x_1_2
+    400268: Trim_Char_x_2_1
+    400270: Trim_Char_x_2_2
+    400272: Trim_Text_xx_1_12
+    400274: Trim_Text_xx_1_14
+    2300000: carbon12_lowPoly_electron1
+    2300002: carbon12_lowPoly_electron1 1
+    2300004: carbon12_lowPoly_electron1 2
+    2300006: carbon12_lowPoly_electron1 3
+    2300008: carbon12_lowPoly_electron1 4
+    2300010: carbon12_lowPoly_electron1 5
+    2300012: carbon12_lowPoly_electron2
+    2300014: carbon12_lowPoly_electron2 1
+    2300016: carbon12_lowPoly_electron2 2
+    2300018: carbon12_lowPoly_electron2 3
+    2300020: carbon12_lowPoly_electron2 4
+    2300022: carbon12_lowPoly_electron2 5
+    2300024: carbon12_lowPoly_electron3
+    2300026: carbon12_lowPoly_electron3 1
+    2300028: carbon12_lowPoly_electron3 2
+    2300030: carbon12_lowPoly_electron3 3
+    2300032: carbon12_lowPoly_electron3 4
+    2300034: carbon12_lowPoly_electron3 5
+    2300036: carbon12_lowPoly_electron4
+    2300038: carbon12_lowPoly_electron4 1
+    2300040: carbon12_lowPoly_electron4 2
+    2300042: carbon12_lowPoly_electron4 3
+    2300044: carbon12_lowPoly_electron4 4
+    2300046: carbon12_lowPoly_electron4 5
+    2300048: carbon12_lowPoly_electron5
+    2300050: carbon12_lowPoly_electron5 1
+    2300052: carbon12_lowPoly_electron5 2
+    2300054: carbon12_lowPoly_electron5 3
+    2300056: carbon12_lowPoly_electron5 4
+    2300058: carbon12_lowPoly_electron5 5
+    2300060: carbon12_lowPoly_electron6
+    2300062: carbon12_lowPoly_electron6 1
+    2300064: carbon12_lowPoly_electron6 2
+    2300066: carbon12_lowPoly_electron6 3
+    2300068: carbon12_lowPoly_electron6 4
+    2300070: carbon12_lowPoly_electron6 5
+    2300072: carbon12_lowPoly_ring1 10
+    2300074: carbon12_lowPoly_ring1 11
+    2300076: carbon12_lowPoly_ring1 6
+    2300078: carbon12_lowPoly_ring1 7
+    2300080: carbon12_lowPoly_ring1 8
+    2300082: carbon12_lowPoly_ring1 9
+    2300084: carbon12_lowPoly_ring2 10
+    2300086: carbon12_lowPoly_ring2 11
+    2300088: carbon12_lowPoly_ring2 6
+    2300090: carbon12_lowPoly_ring2 7
+    2300092: carbon12_lowPoly_ring2 8
+    2300094: carbon12_lowPoly_ring2 9
+    2300096: carbon12_lowPoly_ring3 10
+    2300098: carbon12_lowPoly_ring3 11
+    2300100: carbon12_lowPoly_ring3 6
+    2300102: carbon12_lowPoly_ring3 7
+    2300104: carbon12_lowPoly_ring3 8
+    2300106: carbon12_lowPoly_ring3 9
+    2300108: carbon12_lowPoly_SmallNucleus
+    2300110: carbon12_lowPoly_SmallNucleus 1
+    2300112: carbon12_lowPoly_SmallNucleus 2
+    2300114: carbon12_lowPoly_SmallNucleus 3
+    2300116: carbon12_lowPoly_SmallNucleus 4
+    2300118: carbon12_lowPoly_SmallNucleus 5
+    2300120: ChartMark12
+    2300122: ChartMark14
+    2300124: chartMarker1
+    2300126: chartMarker2
+    2300128: chartMarker3
+    2300130: chartMarker4
+    2300132: chartMarker5
+    2300134: ChartX
+    2300136: ChartY
+    2300138: coil
+    2300140: ion_accelerator_pCube3
+    2300142: ion_accelerator_pCube4
+    2300144: ion_accelerator_pCube5
+    2300146: ion_accelerator_pCube6
+    2300148: MagLine12
+    2300150: MagLine13
+    2300152: NegSign1
+    2300154: NegSign2
+    2300156: NegSign3
+    2300158: NegSign4
+    2300160: padChart
+    2300162: padCoil
+    2300164: pCubeLM
+    2300166: pCubeLM 1
+    2300168: pCubeLM 2
+    2300170: pCubeLM 3
+    2300172: pCubeLM 4
+    2300174: pCylinderLM
+    2300176: pCylinderLM 1
+    2300178: pCylinderLM 2
+    2300180: pCylinderLM 3
+    2300182: pCylinderLM 4
+    2300184: PosSign01
+    2300186: PosSign02
+    2300188: PosSign03
+    2300190: pTorus3
+    2300192: Trim_Char_x_1_1
+    2300194: Trim_Char_x_1_2
+    2300196: Trim_Char_x_2_1
+    2300198: Trim_Char_x_2_2
+    3300000: carbon12_lowPoly_electron1
+    3300002: carbon12_lowPoly_electron1 1
+    3300004: carbon12_lowPoly_electron1 2
+    3300006: carbon12_lowPoly_electron1 3
+    3300008: carbon12_lowPoly_electron1 4
+    3300010: carbon12_lowPoly_electron1 5
+    3300012: carbon12_lowPoly_electron2
+    3300014: carbon12_lowPoly_electron2 1
+    3300016: carbon12_lowPoly_electron2 2
+    3300018: carbon12_lowPoly_electron2 3
+    3300020: carbon12_lowPoly_electron2 4
+    3300022: carbon12_lowPoly_electron2 5
+    3300024: carbon12_lowPoly_electron3
+    3300026: carbon12_lowPoly_electron3 1
+    3300028: carbon12_lowPoly_electron3 2
+    3300030: carbon12_lowPoly_electron3 3
+    3300032: carbon12_lowPoly_electron3 4
+    3300034: carbon12_lowPoly_electron3 5
+    3300036: carbon12_lowPoly_electron4
+    3300038: carbon12_lowPoly_electron4 1
+    3300040: carbon12_lowPoly_electron4 2
+    3300042: carbon12_lowPoly_electron4 3
+    3300044: carbon12_lowPoly_electron4 4
+    3300046: carbon12_lowPoly_electron4 5
+    3300048: carbon12_lowPoly_electron5
+    3300050: carbon12_lowPoly_electron5 1
+    3300052: carbon12_lowPoly_electron5 2
+    3300054: carbon12_lowPoly_electron5 3
+    3300056: carbon12_lowPoly_electron5 4
+    3300058: carbon12_lowPoly_electron5 5
+    3300060: carbon12_lowPoly_electron6
+    3300062: carbon12_lowPoly_electron6 1
+    3300064: carbon12_lowPoly_electron6 2
+    3300066: carbon12_lowPoly_electron6 3
+    3300068: carbon12_lowPoly_electron6 4
+    3300070: carbon12_lowPoly_electron6 5
+    3300072: carbon12_lowPoly_ring1 10
+    3300074: carbon12_lowPoly_ring1 11
+    3300076: carbon12_lowPoly_ring1 6
+    3300078: carbon12_lowPoly_ring1 7
+    3300080: carbon12_lowPoly_ring1 8
+    3300082: carbon12_lowPoly_ring1 9
+    3300084: carbon12_lowPoly_ring2 10
+    3300086: carbon12_lowPoly_ring2 11
+    3300088: carbon12_lowPoly_ring2 6
+    3300090: carbon12_lowPoly_ring2 7
+    3300092: carbon12_lowPoly_ring2 8
+    3300094: carbon12_lowPoly_ring2 9
+    3300096: carbon12_lowPoly_ring3 10
+    3300098: carbon12_lowPoly_ring3 11
+    3300100: carbon12_lowPoly_ring3 6
+    3300102: carbon12_lowPoly_ring3 7
+    3300104: carbon12_lowPoly_ring3 8
+    3300106: carbon12_lowPoly_ring3 9
+    3300108: carbon12_lowPoly_SmallNucleus
+    3300110: carbon12_lowPoly_SmallNucleus 1
+    3300112: carbon12_lowPoly_SmallNucleus 2
+    3300114: carbon12_lowPoly_SmallNucleus 3
+    3300116: carbon12_lowPoly_SmallNucleus 4
+    3300118: carbon12_lowPoly_SmallNucleus 5
+    3300120: ChartMark12
+    3300122: ChartMark14
+    3300124: chartMarker1
+    3300126: chartMarker2
+    3300128: chartMarker3
+    3300130: chartMarker4
+    3300132: chartMarker5
+    3300134: ChartX
+    3300136: ChartY
+    3300138: coil
+    3300140: ion_accelerator_pCube3
+    3300142: ion_accelerator_pCube4
+    3300144: ion_accelerator_pCube5
+    3300146: ion_accelerator_pCube6
+    3300148: MagLine12
+    3300150: MagLine13
+    3300152: NegSign1
+    3300154: NegSign2
+    3300156: NegSign3
+    3300158: NegSign4
+    3300160: padChart
+    3300162: padCoil
+    3300164: pCubeLM
+    3300166: pCubeLM 1
+    3300168: pCubeLM 2
+    3300170: pCubeLM 3
+    3300172: pCubeLM 4
+    3300174: pCylinderLM
+    3300176: pCylinderLM 1
+    3300178: pCylinderLM 2
+    3300180: pCylinderLM 3
+    3300182: pCylinderLM 4
+    3300184: PosSign01
+    3300186: PosSign02
+    3300188: PosSign03
+    3300190: pTorus3
+    3300192: Trim_Char_x_1_1
+    3300194: Trim_Char_x_1_2
+    3300196: Trim_Char_x_2_1
+    3300198: Trim_Char_x_2_2
+    4300000: ion_accelerator_pCube3
+    4300002: ion_accelerator_pCube4
+    4300004: ion_accelerator_pCube5
+    4300006: ion_accelerator_pCube6
+    4300008: coil
+    4300010: pTorus3
+    4300012: NegSign1
+    4300014: NegSign2
+    4300016: NegSign3
+    4300018: NegSign4
+    4300020: PosSign01
+    4300022: PosSign02
+    4300024: PosSign03
+    4300026: padCoil
+    4300028: pCubeLM
+    4300030: pCylinderLM
+    4300032: pCubeLM
+    4300034: pCylinderLM
+    4300036: pCubeLM
+    4300038: pCylinderLM
+    4300040: pCubeLM
+    4300042: pCylinderLM
+    4300044: pCubeLM
+    4300046: pCylinderLM
+    4300048: carbon12_lowPoly_SmallNucleus
+    4300050: carbon12_lowPoly_electron1
+    4300052: carbon12_lowPoly_electron2
+    4300054: carbon12_lowPoly_ring1
+    4300056: carbon12_lowPoly_electron4
+    4300058: carbon12_lowPoly_electron3
+    4300060: carbon12_lowPoly_ring2
+    4300062: carbon12_lowPoly_electron5
+    4300064: carbon12_lowPoly_ring3
+    4300066: carbon12_lowPoly_electron6
+    4300068: carbon12_lowPoly_SmallNucleus
+    4300070: carbon12_lowPoly_electron1
+    4300072: carbon12_lowPoly_electron2
+    4300074: carbon12_lowPoly_ring1
+    4300076: carbon12_lowPoly_electron4
+    4300078: carbon12_lowPoly_electron3
+    4300080: carbon12_lowPoly_ring2
+    4300082: carbon12_lowPoly_electron5
+    4300084: carbon12_lowPoly_ring3
+    4300086: carbon12_lowPoly_electron6
+    4300088: carbon12_lowPoly_SmallNucleus
+    4300090: carbon12_lowPoly_electron1
+    4300092: carbon12_lowPoly_electron2
+    4300094: carbon12_lowPoly_ring1
+    4300096: carbon12_lowPoly_electron4
+    4300098: carbon12_lowPoly_electron3
+    4300100: carbon12_lowPoly_ring2
+    4300102: carbon12_lowPoly_electron5
+    4300104: carbon12_lowPoly_ring3
+    4300106: carbon12_lowPoly_electron6
+    4300108: carbon12_lowPoly_SmallNucleus
+    4300110: carbon12_lowPoly_electron1
+    4300112: carbon12_lowPoly_electron2
+    4300114: carbon12_lowPoly_ring1
+    4300116: carbon12_lowPoly_electron4
+    4300118: carbon12_lowPoly_electron3
+    4300120: carbon12_lowPoly_ring2
+    4300122: carbon12_lowPoly_electron5
+    4300124: carbon12_lowPoly_ring3
+    4300126: carbon12_lowPoly_electron6
+    4300128: carbon12_lowPoly_SmallNucleus
+    4300130: carbon12_lowPoly_electron1
+    4300132: carbon12_lowPoly_electron2
+    4300134: carbon12_lowPoly_ring1
+    4300136: carbon12_lowPoly_electron4
+    4300138: carbon12_lowPoly_electron3
+    4300140: carbon12_lowPoly_ring2
+    4300142: carbon12_lowPoly_electron5
+    4300144: carbon12_lowPoly_ring3
+    4300146: carbon12_lowPoly_electron6
+    4300148: carbon12_lowPoly_SmallNucleus
+    4300150: carbon12_lowPoly_electron1
+    4300152: carbon12_lowPoly_electron2
+    4300154: carbon12_lowPoly_ring1
+    4300156: carbon12_lowPoly_electron4
+    4300158: carbon12_lowPoly_electron3
+    4300160: carbon12_lowPoly_ring2
+    4300162: carbon12_lowPoly_electron5
+    4300164: carbon12_lowPoly_ring3
+    4300166: carbon12_lowPoly_electron6
+    4300168: ChartY
+    4300170: ChartX
+    4300172: chartMarker1
+    4300174: chartMarker2
+    4300176: chartMarker3
+    4300178: chartMarker4
+    4300180: chartMarker5
+    4300182: ChartMark14
+    4300184: ChartMark12
+    4300186: padChart
+    4300188: Trim_Char_x_1_1
+    4300190: Trim_Char_x_2_1
+    4300192: Trim_Char_x_1_2
+    4300194: Trim_Char_x_2_2
+    4300196: MagLine12
+    4300198: MagLine13
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
